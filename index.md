@@ -11,7 +11,7 @@ to engineer amazing digital customer experiences and integrate with modern e-com
 
 Find me on <a href="https://stackoverflow.com/users/2343217/beiller">Stackoverflow</a>, <a href="https://github.com/beiller">GitHub</a>, <a href="https://www.linkedin.com/in/bill-hamilton-42b53325/">LinkedIn</a>
 
-## RECENT PROJECTS
+## RECENT SIDE PROJECTS
 - <a href="https://github.com/beiller/3DDFA">3DDFA - A Pytorch Implementation</a>
   - Contributed pull request to Containerizing PyTorch machine learning facial reconstruction application (reproducable build)
 - <a href="https://github.com/beiller/ammo.js">Ammo JS</a>
