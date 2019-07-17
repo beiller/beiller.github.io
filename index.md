@@ -25,3 +25,7 @@ Find me on <a href="https://stackoverflow.com/users/2343217/beiller">Stackoverfl
   - An alternative monetization platform based on blockchain technologies
 - <a href="https://github.com/beiller/beiller.github.io">This Website</a>
   - A small python script to render markdown to HTML
+
+## OTHER PROJECTS
+- <a href="https://programminglinuxgames.blogspot.com">Programming / Linux / Games Blog</a>
+  - You will find some interesting python snippets here relating to OpenGL and OpenCL with Python
