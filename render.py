@@ -6,20 +6,24 @@ from os.path import isfile, join
 
 
 def load_template(template_path) -> callable:
-	template_data = ""
-	with open(template_path, 'r') as template_file:
-		template_data = template_file.read()
-	def apply_template() -> str:
-		return template_data
-	return apply_template
+    template_data = ""
+    with open(template_path, 'r') as template_file:
+        template_data = template_file.read()
+
+    def apply_template() -> str:
+        return template_data
+
+    return apply_template
 
 
 def table_of_contents(links_list: list) -> callable:
     links = ['[{}]({})'.format(l['text'], l['href']) for l in links_list]
     links = ' | '.join(links)
     links = markdown2.markdown(links)
+
     def apply_table_of_contents() -> str:
-	    return "\n\n{links}\n\n".format(links=links) + "{}"
+        return "\n\n{links}\n\n".format(links=links) + "{}"
+
     return apply_table_of_contents
 
 
@@ -27,13 +31,15 @@ def load_markdown(markdown_filename) -> callable:
     markdown_data = ""
     with open(markdown_filename) as infile:
         markdown_data = markdown2.markdown(infile.read())
+
     def apply_markdown() -> str:
         return markdown_data
+
     return apply_markdown
 
 
 def apply_thing(a, b):
-	return a.format(b())
+    return a.format(b())
 
 
 def markdown_is_valid(directory_path, f, skip):

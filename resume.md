@@ -15,6 +15,7 @@
 - PCI Compliance, CASL, Secure Code Review Certified
 
 ## CLOUD APPLICATIONS
+- Serverless architecture (AWS Lambda)
 - Event driven architecture (Apache Kafka, RabbitMQ, Amazon SQS, S3, Azure Blob Storage)
 - Microservice APIs using REST based architecture
 - Cloud (Amazon IaaS, Google Cloud IaaS, Azure PaaS/IaaS, Heroku PaaS)
@@ -25,6 +26,17 @@
 - Websphere Commerce, Sterling, MQ, AIX, Oracle, Spring
 
 ## EXPERIENCE
+### Uplift
+#### Senior Software Engineer / Engineering Team Lead
+##### Sept 2019 - Present 
+SWE / team lead responsible for various microservices APIs and serverless backends on the credit / lending team 
+
+- Rewrote and unified many critical credit APIs with zero downtime and zero bug launches through extensive testing framework development
+- Some project management duties as well as leadership of small engineering teams of 1-3 as well as python coding
+- Responsible for main machine learning APIs implementing underwriting models developed by data science, and developing faster validation tests
+- Developed improvements for model implementation pipeline and unified feature generation to speed up deployments
+
+
 ### LCBO
 #### Senior Application Developer
 ##### March 2017 - Present 
