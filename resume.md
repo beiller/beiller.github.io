@@ -31,10 +31,10 @@
 ##### Sept 2019 - Present 
 SWE / team lead responsible for various microservices APIs and serverless backends on the credit / lending team 
 
-- Rewrote and unified many critical credit APIs with zero downtime and zero bug launches through extensive testing framework development
+- Responsible for main machine learning APIs implementing underwriting models developed by data science, and developing faster validation and backtesting pipelines
+- Developed improvements for model implementation pipeline and unified feature generation to speed up deployments of new models
+- Rewrote and unified many critical credit APIs with zero downtime and zero bug launches through extensive testing framework development (TDD)
 - Some project management duties as well as leadership of small engineering teams of 1-3 as well as python coding
-- Responsible for main machine learning APIs implementing underwriting models developed by data science, and developing faster validation tests
-- Developed improvements for model implementation pipeline and unified feature generation to speed up deployments
 
 
 ### LCBO
