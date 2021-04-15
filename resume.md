@@ -6,7 +6,7 @@
 
 ## SUMMARY
 ### Technical Leader, Full Stack Engineer, Seasoned Developer
-20 years of experience. Cloud cost optimizer, machine learning master using Keras and SciPy, open source contributor, and passionate about technology. 
+20 years of experience. Machine Learning Deployment, Open Source Contributor, Passionate About Everything Tech. 
 
 ## DEVELOPMENT
 - Procedural, Object Oriented, and Functional programming languages
@@ -30,12 +30,11 @@
 #### Senior Software Engineer / Engineering Team Lead
 ##### Sept 2019 - Present 
 SWE / team lead responsible for various microservices APIs and serverless backends on the credit / lending team 
-
-- Responsible for main machine learning APIs implementing underwriting models developed by data science, and developing faster validation and backtesting pipelines
-- Developed improvements for model implementation pipeline and unified feature generation to speed up deployments of new models
+- Responsible for deployment and maintenance of the main machine learning models trained by data science teams and used underwriting loans
+- Developed faster validation and backtesting pipelines for model implementation and unified feature generation to speed up deployments of new models
 - Rewrote and unified many critical credit APIs with zero downtime and zero bug launches through extensive testing framework development (TDD)
-- Some project management duties as well as leadership of small engineering teams of 1-3 as well as python coding
-
+- Some project management duties as well as leadership of small engineering teams of 1-3 as well as hands on coding
+- Compliance training in KYC, BSA/AML and familiarity with lending laws in the USA as well as Canada
 
 ### LCBO
 #### Senior Application Developer
