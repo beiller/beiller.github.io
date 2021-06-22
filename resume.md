@@ -29,7 +29,8 @@
 ### Uplift
 #### Senior Software Engineer / Engineering Team Lead
 ##### Sept 2019 - Present 
-SWE / team lead responsible for various microservices APIs and serverless backends on the credit / lending team 
+SWE / team lead responsible for various microservices APIs and serverless backends on the credit / lending team
+ 
 - Responsible for deployment and maintenance of the main machine learning models trained by data science teams and used underwriting loans
 - Developed faster validation and backtesting pipelines for model implementation and unified feature generation to speed up deployments of new models
 - Rewrote and unified many critical credit APIs with zero downtime and zero bug launches through extensive testing framework development (TDD)
