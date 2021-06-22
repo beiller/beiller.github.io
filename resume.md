@@ -33,8 +33,7 @@ SWE / team lead responsible for various microservices APIs and serverless backen
 - Responsible for deployment and maintenance of the main machine learning models trained by data science teams and used underwriting loans
 - Developed faster validation and backtesting pipelines for model implementation and unified feature generation to speed up deployments of new models
 - Rewrote and unified many critical credit APIs with zero downtime and zero bug launches through extensive testing framework development (TDD)
-- Some project management duties as well as leadership of small engineering teams of 1-3 as well as hands on coding
-- Compliance training in KYC, BSA/AML and familiarity with lending laws in the USA as well as Canada
+- Some management duties such as interviews and performance reviews as well as leadership of small engineering team of 3 and hands on coding 50/50 split
 
 ### LCBO
 #### Senior Application Developer
