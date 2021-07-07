@@ -38,7 +38,7 @@ SWE / team lead responsible for various microservices APIs and serverless backen
 
 ### LCBO
 #### Senior Application Developer
-##### March 2017 - Present 
+##### March 2017 - Sept 2019 
 Development team lead at LCBO coordinating cloud APIs with beautiful customer focused interfaces, mentoring internal, external, on-shore and off-shore development teams. 
 
 - Performing code reviews, mentoring developer teams, approval of source code changes based on pull request workflows
