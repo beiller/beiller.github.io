@@ -1,11 +1,11 @@
-# Bill Hamilton
+# William Hamilton
 ##### Contact
 <a href="mailto:beiller@gmail.com">be<span></span>il<span></span>ler@gma<span></span>il.com</a><br/>
 6<span></span>47.389.1<span></span>872<br/>
 <a href="https://www.linkedin.com/in/bill-hamilton-42b53325/">https://www.linkedin.com/in/bill-hamilton-42b53325/</a><br/>
-
+<a href="https://beiller.github.io/resume.html">https://beiller.github.io/resume.html</a><br/>
 ## SUMMARY
-### Technical Leader, Full Stack Engineer, Seasoned Developer
+### Technical Leader, Full Stack, Seasoned Engineer
 20 years of experience. Machine Learning Deployment, Open Source Contributor, Passionate About Everything Tech. 
 
 ## DEVELOPMENT
@@ -18,11 +18,11 @@
 - Serverless architecture (AWS Lambda)
 - Event driven architecture (Apache Kafka, RabbitMQ, Amazon SQS, S3, Azure Blob Storage)
 - Microservice APIs using REST based architecture
-- Cloud (Amazon IaaS, Google Cloud IaaS, Azure PaaS/IaaS, Heroku PaaS)
-- CI/CD with Jenkins, Git, Bitbucket Pipelines, and Selenium
+- Cloud Infrastructure (Amazon IaaS, Google Cloud IaaS, Azure PaaS/IaaS, Heroku PaaS)
+- CI/CD with Jenkins, GitHub Actions, Bitbucket Pipelines, Selenium and more
 - Docker, Webhook based deployments, Kubernetes and Terraform orchestration
 
-## MONOLITHIC APPLICATIONS
+## ENTERPRISE APPLICATIONS
 - Websphere Commerce, Sterling, MQ, AIX, Oracle, Spring
 
 ## EXPERIENCE
@@ -30,16 +30,16 @@
 #### Senior Software Engineer / Engineering Team Lead
 ##### Sept 2019 - Present 
 SWE / team lead responsible for various microservices APIs and serverless backends on the credit / lending team
- 
-- Responsible for deployment and maintenance of the main machine learning models trained by data science teams and used underwriting loans
-- Developed faster validation and backtesting pipelines for model implementation and unified feature generation to speed up deployments of new models
-- Rewrote and unified many critical credit APIs with zero downtime and zero bug launches through extensive testing framework development (TDD)
+
+- Responsible for all things related to underwriting backend services, deploying and maintaining machine learning models trained by data science teams used to underwrite loans
+- Develop faster validation and backtesting pipelines for model implementation and unified feature generation to speed up deployments of new models
+- Unified many critical credit APIs with zero downtime and zero bug launches through the extensive use of test driven development (TDD) for critical APIs
 - Some management duties such as interviews and performance reviews as well as leadership of small engineering team of 3 and hands on coding 50/50 split
 
-### LCBO
+### Liquor Control Board of Ontario (LCBO)
 #### Senior Application Developer
 ##### March 2017 - Sept 2019 
-Development team lead at LCBO coordinating cloud APIs with beautiful customer focused interfaces, mentoring internal, external, on-shore and off-shore development teams. 
+Development team lead at the world's largest alcohol retailer coordinating cloud APIs with beautiful customer focused interfaces, mentoring internal, external, on-shore and off-shore development teams. 
 
 - Performing code reviews, mentoring developer teams, approval of source code changes based on pull request workflows
 - Leading e-commerce backend and frontend development team of 4 using Java/JSP and Javascript
@@ -82,9 +82,9 @@ Development team lead at LCBO coordinating cloud APIs with beautiful customer fo
 - SAP Data cleanup and administration
 
 ## EDUCATION
-- Certificate in Project Management, University of Toronto, Toronto ON (2014)
-- Honours Bachelor of Computer Science, Laurentian University, Sudbury ON (2008)
-- Computer Programmer Diploma, Georgian College, Barrie ON (2005)
+- Certificate in Project Management, University of Toronto, Toronto Ontario Canada (2014)
+- Honours Bachelor of Computer Science, Laurentian University, Sudbury  Ontario Canada (2008)
+- Computer Programmer Diploma, Georgian College, Barrie Ontario Canada (2005)
 
 ## CERTIFICATIONS
 - ITIL Foundation (AXELOS March 2019)
