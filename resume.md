@@ -6,7 +6,7 @@
 <a href="https://beiller.github.io/resume.html">https://beiller.github.io/resume.html</a><br/>
 ## SUMMARY
 ### Technical Leader, Full Stack, Seasoned Engineer
-20 years of experience. Machine Learning Deployment, Open Source Contributor, Passionate About Everything Tech. 
+Machine Learning Deployment, Open Source Contributor, Passionate About Everything Tech. 
 
 ## DEVELOPMENT
 - Procedural, Object Oriented, and Functional programming languages
@@ -27,9 +27,9 @@
 
 ## EXPERIENCE
 ### Uplift
-#### Senior Software Engineer / Engineering Team Lead
+#### Senior Software Engineer
 ##### Sept 2019 - Present 
-SWE / team lead responsible for various microservices APIs and serverless backends on the credit / lending team
+SWE responsible for various microservices APIs and serverless backends on the credit / lending team
 
 - Responsible for all things related to underwriting backend services, deploying and maintaining machine learning models trained by data science teams used to underwrite loans
 - Develop faster validation and backtesting pipelines for model implementation and unified feature generation to speed up deployments of new models
