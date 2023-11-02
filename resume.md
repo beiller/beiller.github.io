@@ -94,28 +94,9 @@ Development team lead at the world's largest alcohol retailer coordinating cloud
 - Web crawling, CRM applications, user interface design and optimization, application development and life cycles
 - Writing great documentation
 
-### Honda of America Mfg., Inc.
-#### Operations Help Desk
-##### May 2005 - September 2005 (5 months)
-- Supporting AIX assembly line systems
-- Troubleshooting various PC problems remotely
-- Help desk operations
-
-### Bell Canada
-#### SAP Administrator
-##### June 2004 - September 2004 (4 months)
-- SAP Data cleanup and administration
-
 ## EDUCATION
 - Certificate in Project Management, University of Toronto, Toronto Ontario Canada (2014)
 - Honours Bachelor of Computer Science, Laurentian University, Sudbury  Ontario Canada (2008)
-- Computer Programmer Diploma, Georgian College, Barrie Ontario Canada (2005)
-
-## CERTIFICATIONS
-- ITIL Foundation (AXELOS March 2019)
-- Software Development Security (Cybrary Sep 2018)
-- Secure Coding (Cybrary Sep 2017)
-- Cisco Certified Network Associate, CompTIA A+, Informatica PowerCenter, Teradata Physical Database Design, First Aid
 
 ## ADDITIONAL PROJECTS
 #### llama.cpp - Facebook Large Language Model in C++ (Mar 2023 - Apr 2023)
