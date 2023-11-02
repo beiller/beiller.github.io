@@ -4,37 +4,62 @@
 6<span></span>47.389.1<span></span>872<br/>
 <a href="https://www.linkedin.com/in/bill-hamilton-42b53325/">https://www.linkedin.com/in/bill-hamilton-42b53325/</a><br/>
 <a href="https://beiller.github.io/resume.html">https://beiller.github.io/resume.html</a><br/>
-## SUMMARY
-### Technical Leader, Full Stack, Seasoned Engineer
-Machine Learning Deployment, Open Source Contributor, Passionate About Everything Tech. 
+
+## OBJECTIVE
+Results-driven and highly experienced software engineer with a strong background in software development, architecture, and project management, seeking an Engineering Manager position to leverage my technical expertise and leadership skills to drive innovation and deliver high-quality software solutions.
+
+## PROFESSIONAL SUMMARY
+A seasoned software engineer with 20 years of experience in software development, including 3 years in leadership and management roles. Proven ability to lead and mentor cross-functional engineering teams, streamline development processes, and deliver exceptional software products on time and within budget. Adept at fostering a culture of collaboration, innovation, and continuous improvement.
 
 ## DEVELOPMENT
 - Procedural, Object Oriented, and Functional programming languages
-- Over 20 languages and counting (Top 5: *Python, JavaScript, Java, Go, C*)
+- Over 20 languages and counting (Top 5: *Python, TypeScript, Java, Go, C++*)
 - Frameworks such as React, Angular, Keras, Django, Wordpress
-- PCI Compliance, CASL, Secure Code Review Certified
 
 ## CLOUD APPLICATIONS
-- Serverless architecture (AWS Lambda)
 - Event driven architecture (Apache Kafka, RabbitMQ, Amazon SQS, S3, Azure Blob Storage)
+- Serverless architecture (AWS Lambda)
 - Microservice APIs using REST based architecture
-- Cloud Infrastructure (Amazon IaaS, Google Cloud IaaS, Azure PaaS/IaaS, Heroku PaaS)
+- Monolithic stacks
+- Cloud Infrastructure (Amazon IaaS, Google Cloud IaaS, Azure PaaS/IaaS, Heroku PaaS, Elastic Beanstalk)
 - CI/CD with Jenkins, GitHub Actions, Bitbucket Pipelines, Selenium and more
 - Docker, Webhook based deployments, Kubernetes and Terraform orchestration
 
-## ENTERPRISE APPLICATIONS
-- Websphere Commerce, Sterling, MQ, AIX, Oracle, Spring
-
 ## EXPERIENCE
+### Flexport
+#### Dev Manager
+##### Jun 2023 - Present
+Optimization Engineering. Continue managing the team after the aquisition of Shopify Logistics by Flexport
+- Lead a team of 5 software engineers, setting goals, monitoring progress, and conducting performance evaluations.
+- Define technical strategy and guide project planning, execution, and delivery, ensuring alignment with business objectives.
+- Implemented Agile methodologies, resulting in a 30% improvement in project delivery speed and quality.
+- Fostered a culture of continuous improvement and innovation within the engineering team.
+- Managed resource planning, ensuring efficient utilization of resources.
+- Collaborated with cross-functional teams to drive product development, resolving technical challenges, and delivering high-quality software products.
+
+### Shopify
+#### Dev Manager
+##### Nov 2022 - Jun 2023
+Optimization Engineering. Manage a team of 5 engineers specializing working on optimization problems in Shopify Logistics
+- Lead a team of 5 software engineers, setting goals, monitoring progress, and conducting performance evaluations.
+- Organizing burst / event planning for geographically diverse team in the East / West cost of USA / Canada
+#### Sr. Developer
+##### Apr 2022 - Nov 2022
+Enabling merchants everywhere to exceed buyer expectations. Working in operations research team doing optimization and modelling
+- Team lead working closely with data science on implementing placement algorithms
+- Developed network simulation software which used to compare placement algorithms and work out estimated time to results for our new placement implementation
+- Provide software best practise and guidance for data science teams
+- Mentour junior engineers and making them comfortable shipping PRs
+
 ### Uplift
 #### Senior Software Engineer
-##### Sept 2019 - Present 
+##### Sept 2019 - Nov 2022  
 SWE responsible for various microservices APIs and serverless backends on the credit / lending team
-
+- Perform some management duties such as interviews and performance reviews as well as leadership of small engineering team of 3 and hands on coding 50/50 split
 - Responsible for all things related to underwriting backend services, deploying and maintaining machine learning models trained by data science teams used to underwrite loans
 - Develop faster validation and backtesting pipelines for model implementation and unified feature generation to speed up deployments of new models
 - Unified many critical credit APIs with zero downtime and zero bug launches through the extensive use of test driven development (TDD) for critical APIs
-- Some management duties such as interviews and performance reviews as well as leadership of small engineering team of 3 and hands on coding 50/50 split
+
 
 ### Liquor Control Board of Ontario (LCBO)
 #### Senior Application Developer
@@ -52,7 +77,7 @@ Development team lead at the world's largest alcohol retailer coordinating cloud
 
 #### Senior Programmer Analyst
 ##### March 2011 - March 2017 (6 years 1 month)
-- Lead Developr of of LCBO Mobile App (2016 Android / IOS)
+- LCBO Mobile App Sole Developer (2016 Android / IOS)
 - Java, J2EE development
 - SQL Mastery in Oracle PL/SQL, Teradata, DB2, Postgres, MySQL
 - Informatica, Sales forcasting, Demand chain and supply chain applications, chemical lab software and equipment support
@@ -93,6 +118,14 @@ Development team lead at the world's largest alcohol retailer coordinating cloud
 - Cisco Certified Network Associate, CompTIA A+, Informatica PowerCenter, Teradata Physical Database Design, First Aid
 
 ## ADDITIONAL PROJECTS
+#### llama.cpp - Facebook Large Language Model in C++ (Mar 2023 - Apr 2023)
+https://github.com/ggerganov/llama.cpp
+(Contributer)
+Added repeat penalty feature
+https://github.com/ggerganov/llama.cpp/pull/20
+#### Laydelmi app for Android - Video Streaming Platform for Cooking
+Check out the app on Android app store
+## Older Projects
 - Containerizing PyTorch machine learning facial reconstruction application https://github.com/beiller/3DDFA
 - Ammo.js - A WASM compiled port of Bullet physics library to Javascript contributor https://github.com/beiller/ammo.js
 - C++ port of liquibooks to Python, an order matching engine https://github.com/beiller/python-liquibook
