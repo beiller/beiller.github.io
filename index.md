@@ -2,7 +2,7 @@
 <div style="float: left; padding-left: 10px; padding-right: 10px; padding-bottom: 10px;">
 <img src="profile_pic.jpg" alt="Picutre of Bill Hamiton pondering" title="Picutre of Bill Hamiton pondering">
 </div>
-## PROFESSIONAL SUMMARY
+### PROFESSIONAL SUMMARY
 A seasoned software engineer with 20 years of experience in software development, including 3 years in leadership and management roles. Proven ability to lead and mentor cross-functional engineering teams, streamline development processes, and deliver exceptional software products on time and within budget. Adept at fostering a culture of collaboration, innovation, and continuous improvement.
 
 <div style="clear: both">&nbsp;</div>
