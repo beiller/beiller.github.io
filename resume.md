@@ -27,7 +27,7 @@ A seasoned software engineer with 20 years of experience in software development
 
 ## EXPERIENCE
 ### Flexport
-#### Order Management (Manager)
+#### Order Management (Dev Manager)
 ##### Dec 2023 - Present
 - Lead a team of 8 software engineers running critical APIs for shipping orders
 - Set goals, monitor progress, and conducting performance evaluations.
@@ -36,19 +36,21 @@ A seasoned software engineer with 20 years of experience in software development
 - Fostered a culture of continuous improvement and innovation within the engineering team.
 - Managed resource planning, ensuring efficient utilization of resources.
 - Collaborated with cross-functional teams to drive product development, resolving technical challenges, and delivering high-quality software products.
-#### Optimization Engineering (Staff)
+
+#### Optimization Engineering (Staff Developer)
 ##### Aug 2023 - Dec 2023
 - Drove complex projects between data science and operations that effectively places inventory using advanced machine learning models
 - Shipped a major algorithm update saving millions in fulfilment costs per year
-#### Optimization Engineering (Manager)
+
+#### Optimization Engineering (Dev Manager)
 ##### Jun 2023 - Aug 2023
 - Continue managing the team after the aquisition of Shopify Logistics by Flexport
 - Lead a team of 5 software engineers, setting goals, monitoring progress, and conducting performance evaluations.
 
 ### Shopify
-#### Dev Manager
+#### Optimization Engineering (Dev Manager)
 ##### Nov 2022 - Jun 2023
-Optimization Engineering. Manage a team of 5 engineers specializing working on optimization problems in Shopify Logistics
+- Manage a team of 5 engineers specializing working on optimization problems in Shopify Logistics
 - Lead a team of 5 working closely with data science on ML related initiatives
 - Organizing burst / event planning for geographically diverse team in the East / West cost of USA / Canada
 #### Sr. Developer
