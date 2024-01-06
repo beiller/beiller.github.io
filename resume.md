@@ -55,7 +55,7 @@ A seasoned software engineer with 20 years of experience in software development
 - Organizing burst / event planning for geographically diverse team in the East / West cost of USA / Canada
 #### Sr. Developer
 ##### Apr 2022 - Nov 2022
-Enabling merchants everywhere to exceed buyer expectations. Working in operations research team doing optimization and modelling
+- Working in operations research team doing optimization and modelling
 - Team lead working closely with data science on implementing placement algorithms
 - Developed network simulation software which used to compare placement algorithms and work out estimated time to results for our new placement implementation
 - Provide software best practise and guidance for data science teams
