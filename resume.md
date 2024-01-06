@@ -6,15 +6,15 @@
 <a href="https://beiller.github.io/resume.html">https://beiller.github.io/resume.html</a><br/>
 
 ## OBJECTIVE
-Results-driven and highly experienced software engineer with a strong background in software development, architecture, and project management, seeking an Engineering Manager position to leverage my technical expertise and leadership skills to drive innovation and deliver high-quality software solutions.
+Results-driven and highly experienced software engineer with a strong background in software development, architecture, and project management, seeking an Engineering Manager position to leverage my technical expertise and leadership skills and to drive innovation and deliver high-quality software solutions.
 
 ## PROFESSIONAL SUMMARY
 A seasoned software engineer with 20 years of experience in software development, including 3 years in leadership and management roles. Proven ability to lead and mentor cross-functional engineering teams, streamline development processes, and deliver exceptional software products on time and within budget. Adept at fostering a culture of collaboration, innovation, and continuous improvement.
 
 ## DEVELOPMENT
+- Team leadership by example
 - Procedural, Object Oriented, and Functional programming languages
-- Over 20 languages and counting (Top 5: *Python, TypeScript, Java, Go, C++*)
-- Frameworks such as React, Angular, Keras, Django, Wordpress
+- Over 20 languages (Top 5: *Python, TypeScript, Java, Go, C++*)
 
 ## CLOUD APPLICATIONS
 - Event driven architecture (Apache Kafka, RabbitMQ, Amazon SQS, S3, Azure Blob Storage)
@@ -27,21 +27,30 @@ A seasoned software engineer with 20 years of experience in software development
 
 ## EXPERIENCE
 ### Flexport
-#### Dev Manager
+#### Dev Manager (Order Management)
+#### Staff Engineer (Optimization Engineering)
+#### Dev Manager (Optimization Engineering)
 ##### Jun 2023 - Present
-Optimization Engineering. Continue managing the team after the aquisition of Shopify Logistics by Flexport
-- Lead a team of 5 software engineers, setting goals, monitoring progress, and conducting performance evaluations.
+Order Management (Manager)
+- Lead a team of 8 software engineers running critical APIs for shipping orders
+- Set goals, monitor progress, and conducting performance evaluations.
 - Define technical strategy and guide project planning, execution, and delivery, ensuring alignment with business objectives.
 - Implemented Agile methodologies, resulting in a 30% improvement in project delivery speed and quality.
 - Fostered a culture of continuous improvement and innovation within the engineering team.
 - Managed resource planning, ensuring efficient utilization of resources.
 - Collaborated with cross-functional teams to drive product development, resolving technical challenges, and delivering high-quality software products.
+Optimization Engineering (Staff)
+- Drove complex projects between data science and operations that effectively places inventory using advanced machine learning models
+- Shipped a major algorithm update saving millions in fulfilment costs per year
+Optimization Engineering (Manager)
+- Continue managing the team after the aquisition of Shopify Logistics by Flexport
+- Lead a team of 5 software engineers, setting goals, monitoring progress, and conducting performance evaluations.
 
 ### Shopify
 #### Dev Manager
 ##### Nov 2022 - Jun 2023
 Optimization Engineering. Manage a team of 5 engineers specializing working on optimization problems in Shopify Logistics
-- Lead a team of 5 software engineers, setting goals, monitoring progress, and conducting performance evaluations.
+- Lead a team of 5 working closely with data science on ML related initiatives
 - Organizing burst / event planning for geographically diverse team in the East / West cost of USA / Canada
 #### Sr. Developer
 ##### Apr 2022 - Nov 2022
