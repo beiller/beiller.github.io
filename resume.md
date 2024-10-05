@@ -6,24 +6,25 @@
 <a href="https://beiller.github.io/resume.html">https://beiller.github.io/resume.html</a><br/>
 
 ## OBJECTIVE
-Results-driven and highly experienced software engineer with a strong background in software development, architecture, and project management, seeking an Engineering Manager position to leverage my technical expertise and leadership skills and to drive innovation and deliver high-quality software solutions.
+Results-driven and highly experienced software engineer with a strong background in software development, architecture, and project management. Seeking a leadership role where I can leverage my expertise to drive organizational growth, enhance development practices, and deliver high-quality software products.
 
 ## PROFESSIONAL SUMMARY
-Experienced engineering manager with 20 years in software development, including 3 years leading high-performing teams to deliver complex software solutions. Proven ability to drive cross-functional collaboration, optimize processes, and ensure the timely delivery of projects within budget. Skilled in fostering a culture of innovation, mentoring engineers, and aligning technical initiatives with business objectives. Seeking a leadership role where I can leverage my expertise to drive organizational growth, enhance development practices, and deliver high-quality software products.
+Experienced engineering manager with 20 years in software development, including 3 years leading highly technical teams to deliver complex software solutions. Proven ability to drive cross-functional collaboration, optimize processes that reduce costs, and ensure the timely delivery of projects. Skilled in fostering a culture of innovation, mentoring engineers, and aligning technical initiatives with business objectives. Track record of improved performance and increased reliability through an observability first methodology.
 
-## DEVELOPMENT
-- Team leadership by example
+## TECHNICAL EXPERTISE
+- Leading high-performing teams of up to 10 engineers
 - Procedural, Object Oriented, and Functional programming languages
 - Over 20 languages (Top 5: *Python, TypeScript, Java, Go, C++*)
 
-## CLOUD APPLICATIONS
-- Event driven architecture (Apache Kafka, RabbitMQ, Amazon SQS, S3, Azure Blob Storage)
-- Serverless architecture (AWS Lambda)
-- Microservice APIs using REST based architecture
-- Monolithic stacks
-- Cloud Infrastructure (Amazon IaaS, Google Cloud IaaS, Azure PaaS/IaaS, Heroku PaaS, Elastic Beanstalk)
-- CI/CD with Jenkins, GitHub Actions, Bitbucket Pipelines, Selenium and more
-- Docker, Webhook based deployments, Kubernetes and Terraform orchestration
+## ARCHITECTURE & INFRASTRUCTURE
+- Amazon IaaS (AWS, EC2, S3)
+- Google Cloud IaaS (GCP, Compute Engine, Cloud Storage)
+- Azure PaaS/IaaS (Azure App Service, Azure Storage)
+- Heroku PaaS
+- Event-driven architecture with Apache Kafka, RabbitMQ, and Amazon SQS
+- Serverless architecture with AWS Lambda and Azure Functions
+- REST-based APIs using Node.js, Python, and Java
+- Microservice orchestration with Docker, Kubernetes, and Terraform
 
 ## EXPERIENCE
 ### Flexport
@@ -31,15 +32,16 @@ Experienced engineering manager with 20 years in software development, including
 ##### Dec 2023 - Present
 - Led a team of 10 engineers maintaining high-volume, mission-critical shipping APIs with 99.9% uptime, processing between 10,000 and 50,000 orders per day.
 - Defined and executed a technical strategy that reduced order processing latency by 30%, driving alignment with key business objectives.
-- Implemented Agile methodologies, increasing project delivery speed by 30% and improving code quality, measured by a [reduction in bug count or other quality metric].
-- Sunset and streamlined the codebase, reducing technical debt and increasing development velocity by 30% by eliminating frequent dependency upgrades in a microservices architecture. Simplified maintenance by reducing the total number of repositories by 50%, streamlining workflows and repository management.
+- Implemented Agile methodologies, increasing project delivery speed by 30% and improving code quality, measured by a reduction in defects during deployment of code changes.
+- Designed from the ground a support rotation and decreased critical ticket volume by half using a metrics based approach and pre-emptively handing issues
+- Sunset and streamlined legacy code, reducing technical debt and increasing development velocity by 30% by eliminating frequent dependency upgrades in a microservices architecture. Simplified maintenance by reducing the total number of repositories by 50%, streamlining workflows and repository management.
 - Managed resource planning and optimized team workload, improving utilization efficiency by 20%. Leveraged planning tools with weekly granularity working closely with product teams to ensure everyone knew what their task was for the week.
 - Collaborated with cross-functional teams, resolving technical challenges and delivering high-quality software products in partnership with Product, QA, and Operations teams.
 
 #### Optimization Engineering (Staff Developer)
 ##### Aug 2023 - Dec 2023
 - Drove complex projects between data science and operations that effectively places inventory using advanced machine learning models
-- Shipped a major algorithm update saving millions in fulfilment costs per year
+- Shipped a major inbounding algorithm update saving 3 million in fulfilment costs per year focusing on reducint split shipments
 
 #### Optimization Engineering (Dev Manager)
 ##### Jun 2023 - Aug 2023
