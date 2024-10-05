@@ -6,10 +6,13 @@
 <a href="https://beiller.github.io/resume.html">https://beiller.github.io/resume.html</a><br/>
 
 ## OBJECTIVE
-Results-driven and highly experienced software engineer with a strong background in software development, architecture, and project management. Seeking a leadership role where I can leverage my expertise to drive organizational growth, enhance development practices, and deliver high-quality software products.
+Seeking a leadership role where I can leverage my expertise to drive organizational growth, enhance development practices, and deliver high-quality software products.
 
 ## PROFESSIONAL SUMMARY
-Experienced engineering manager with 20 years in software development, including 3 years leading highly technical teams to deliver complex software solutions. Proven ability to drive cross-functional collaboration, optimize processes that reduce costs, and ensure the timely delivery of projects. Skilled in fostering a culture of innovation, mentoring engineers, and aligning technical initiatives with business objectives. Track record of improved performance and increased reliability through an observability first methodology.
+- Veteran engineering manager with a long-standing career in software development, including 4+ years leading highly technical teams to deliver complex software solutions.
+- Proven ability to drive cross-functional collaboration, optimize processes that reduce costs, and ensure the timely delivery of projects. 
+- Skilled in fostering a culture of innovation, mentoring engineers, and aligning technical initiatives with business objectives. 
+- Track record of improved performance and increased reliability through an observability first methodology.
 
 ## TECHNICAL EXPERTISE
 - Leading high-performing teams of up to 10 engineers
@@ -17,10 +20,9 @@ Experienced engineering manager with 20 years in software development, including
 - Over 20 languages (Top 5: *Python, TypeScript, Java, Go, C++*)
 
 ## ARCHITECTURE & INFRASTRUCTURE
-- Amazon IaaS (AWS, EC2, S3)
+- Amazon IaaS (AWS, EC2, Elastic Beanstalk)
 - Google Cloud IaaS (GCP, Compute Engine, Cloud Storage)
 - Azure PaaS/IaaS (Azure App Service, Azure Storage)
-- Heroku PaaS
 - Event-driven architecture with Apache Kafka, RabbitMQ, and Amazon SQS
 - Serverless architecture with AWS Lambda and Azure Functions
 - REST-based APIs using Node.js, Python, and Java
@@ -28,7 +30,7 @@ Experienced engineering manager with 20 years in software development, including
 
 ## EXPERIENCE
 ### Flexport
-#### Order Management (Dev Manager)
+#### Order Management (Dev Manager II)
 ##### Dec 2023 - Present
 - Led a team of 10 engineers maintaining high-volume, mission-critical shipping APIs with 99.9% uptime, processing between 10,000 and 50,000 orders per day.
 - Defined and executed a technical strategy that reduced order processing latency by 30%, driving alignment with key business objectives.
@@ -51,16 +53,15 @@ Experienced engineering manager with 20 years in software development, including
 ### Shopify
 #### Optimization Engineering (Dev Manager)
 ##### Nov 2022 - Jun 2023
-- Manage a team of 5 engineers specializing working on optimization problems in Shopify Logistics
-- Lead a team of 5 working closely with data science on ML related initiatives
+- Manage a team of 5 engineers specializing working on optimization problems in Shopify Logistics working closely with data science on ML related initiatives
 - Organizing burst / event planning for geographically diverse team in the East / West cost of USA / Canada
-#### Sr. Developer
+#### Operations Research (Senior Developer)
 ##### Apr 2022 - Nov 2022
 - Working in operations research team doing optimization and modelling
 - Team lead working closely with data science on implementing placement algorithms
-- Developed network simulation software which used to compare placement algorithms and work out estimated time to results for our new placement implementation
-- Provide software best practise and guidance for data science teams
-- Mentour junior engineers and making them comfortable shipping PRs
+- Developed network simulation software which was used to compare placement algorithms and work out estimated time to results for our new placement implementation
+- Provide software best practise and guidance for data science teams writing code
+- Mentor junior engineers and making them comfortable shipping PRs
 
 ### Uplift
 #### Senior Software Engineer
@@ -106,17 +107,17 @@ Development team lead at the world's largest alcohol retailer coordinating cloud
 - Writing great documentation
 
 ## EDUCATION
-- Certificate in Project Management, University of Toronto, Toronto Ontario Canada (2014)
-- Honours Bachelor of Computer Science, Laurentian University, Sudbury  Ontario Canada (2008)
+- Certificate in Project Management, University of Toronto, Toronto Ontario Canada
+- Honours Bachelor of Computer Science, Laurentian University, Sudbury  Ontario Canada
 
 ## ADDITIONAL PROJECTS
 #### llama.cpp - Facebook Large Language Model in C++ (Mar 2023 - Apr 2023)
 https://github.com/ggerganov/llama.cpp
 (Contributer)
-Added repeat penalty feature
+Added repeat penalty feature. Repo became official part of Meta Llama 3 download package.
 https://github.com/ggerganov/llama.cpp/pull/20
 #### Laydelmi app for Android - Video Streaming Platform for Cooking
-Check out the app on Android app store
+Check out the app on Android app store!
 ## Older Projects
 - Containerizing PyTorch machine learning facial reconstruction application https://github.com/beiller/3DDFA
 - Ammo.js - A WASM compiled port of Bullet physics library to Javascript contributor https://github.com/beiller/ammo.js
