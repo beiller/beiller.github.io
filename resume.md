@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/bill-hamilton-42b53325/">https://www.linkedin.com/in/bill-hamilton-42b53325/</a><br/>
 <a href="https://beiller.github.io/resume.html">https://beiller.github.io/resume.html</a><br/>
 
-## OBJECTIVE
-Seeking a leadership role where I can leverage my expertise to drive organizational growth, enhance development practices, and deliver high-quality software products.
-
 ## PROFESSIONAL SUMMARY
 - Veteran engineering manager with a long-standing career in software development, including 4+ years leading highly technical teams to deliver complex software solutions.
 - Proven ability to drive cross-functional collaboration, optimize processes that reduce costs, and ensure the timely delivery of projects. 
@@ -20,13 +17,15 @@ Seeking a leadership role where I can leverage my expertise to drive organizatio
 - Over 20 languages (Top 5: *Python, TypeScript, Java, Go, C++*)
 
 ## ARCHITECTURE & INFRASTRUCTURE
+- Serverless architecture with AWS Lambda and Azure Functions
+- Event-driven architecture with Apache Kafka, RabbitMQ, and Amazon SQS
+- REST-based APIs using Node.js, Python, and Java
+- Microservice orchestration with Docker, Kubernetes, and Terraform
+- Stack management using CloudFormation and Serveless Framework 
+- Observability using Sumo, Datadog
 - Amazon IaaS (AWS, EC2, Elastic Beanstalk)
 - Google Cloud IaaS (GCP, Compute Engine, Cloud Storage)
 - Azure PaaS/IaaS (Azure App Service, Azure Storage)
-- Event-driven architecture with Apache Kafka, RabbitMQ, and Amazon SQS
-- Serverless architecture with AWS Lambda and Azure Functions
-- REST-based APIs using Node.js, Python, and Java
-- Microservice orchestration with Docker, Kubernetes, and Terraform
 
 ## EXPERIENCE
 ### Flexport
@@ -35,9 +34,9 @@ Seeking a leadership role where I can leverage my expertise to drive organizatio
 - Led a team of 10 engineers maintaining high-volume, mission-critical shipping APIs with 99.9% uptime, processing between 10,000 and 50,000 orders per day.
 - Defined and executed a technical strategy that reduced order processing latency by 30%, driving alignment with key business objectives.
 - Implemented Agile methodologies, increasing project delivery speed by 30% and improving code quality, measured by a reduction in defects during deployment of code changes.
-- Designed from the ground a support rotation and decreased critical ticket volume by half using a metrics based approach and pre-emptively handing issues
-- Sunset and streamlined legacy code, reducing technical debt and increasing development velocity by 30% by eliminating frequent dependency upgrades in a microservices architecture. Simplified maintenance by reducing the total number of repositories by 50%, streamlining workflows and repository management.
-- Managed resource planning and optimized team workload, improving utilization efficiency by 20%. Leveraged planning tools with weekly granularity working closely with product teams to ensure everyone knew what their task was for the week.
+- Designed from the ground a support rotation decreasing critical ticket volume by half using a dashboard based approach and pre-emptively handing issues
+- Sunset and streamlined legacy code, reducing technical debt and increasing development velocity by 30% eliminating frequent dependency upgrades in a microservices architecture.
+- Managed resource planning and optimized team workload, improving utilization efficiency by 25%.
 - Collaborated with cross-functional teams, resolving technical challenges and delivering high-quality software products in partnership with Product, QA, and Operations teams.
 
 #### Optimization Engineering (Staff Developer)
