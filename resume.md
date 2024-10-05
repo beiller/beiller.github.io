@@ -9,7 +9,7 @@
 Results-driven and highly experienced software engineer with a strong background in software development, architecture, and project management, seeking an Engineering Manager position to leverage my technical expertise and leadership skills and to drive innovation and deliver high-quality software solutions.
 
 ## PROFESSIONAL SUMMARY
-A seasoned software engineer with 20 years of experience in software development, including 3 years in leadership and management roles. Proven ability to lead and mentor cross-functional engineering teams, streamline development processes, and deliver exceptional software products on time and within budget. Adept at fostering a culture of collaboration, innovation, and continuous improvement.
+Experienced engineering manager with 20 years in software development, including 3 years leading high-performing teams to deliver complex software solutions. Proven ability to drive cross-functional collaboration, optimize processes, and ensure the timely delivery of projects within budget. Skilled in fostering a culture of innovation, mentoring engineers, and aligning technical initiatives with business objectives. Seeking a leadership role where I can leverage my expertise to drive organizational growth, enhance development practices, and deliver high-quality software products.
 
 ## DEVELOPMENT
 - Team leadership by example
@@ -29,13 +29,12 @@ A seasoned software engineer with 20 years of experience in software development
 ### Flexport
 #### Order Management (Dev Manager)
 ##### Dec 2023 - Present
-- Lead a team of 8 software engineers running critical APIs for shipping orders
-- Set goals, monitor progress, and conducting performance evaluations.
-- Define technical strategy and guide project planning, execution, and delivery, ensuring alignment with business objectives.
-- Implemented Agile methodologies, resulting in a 30% improvement in project delivery speed and quality.
-- Fostered a culture of continuous improvement and innovation within the engineering team.
-- Managed resource planning, ensuring efficient utilization of resources.
-- Collaborated with cross-functional teams to drive product development, resolving technical challenges, and delivering high-quality software products.
+- Led a team of 10 engineers maintaining high-volume, mission-critical shipping APIs with 99.9% uptime, processing between 10,000 and 50,000 orders per day.
+- Defined and executed a technical strategy that reduced order processing latency by 30%, driving alignment with key business objectives.
+- Implemented Agile methodologies, increasing project delivery speed by 30% and improving code quality, measured by a [reduction in bug count or other quality metric].
+- Sunset and streamlined the codebase, reducing technical debt and increasing development velocity by 30% by eliminating frequent dependency upgrades in a microservices architecture. Simplified maintenance by reducing the total number of repositories by 50%, streamlining workflows and repository management.
+- Managed resource planning and optimized team workload, improving utilization efficiency by 20%. Leveraged planning tools with weekly granularity working closely with product teams to ensure everyone knew what their task was for the week.
+- Collaborated with cross-functional teams, resolving technical challenges and delivering high-quality software products in partnership with Product, QA, and Operations teams.
 
 #### Optimization Engineering (Staff Developer)
 ##### Aug 2023 - Dec 2023
