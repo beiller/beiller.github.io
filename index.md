@@ -2,14 +2,17 @@
 <div style="float: left; padding-left: 10px; padding-right: 10px; padding-bottom: 10px;">
 <img src="profile_pic.jpg" alt="Picutre of Bill Hamiton pondering" title="Picutre of Bill Hamiton pondering">
 </div>
-### PROFESSIONAL SUMMARY
-A seasoned software engineer with 20 years of experience in software development, including 3 years in leadership and management roles. Proven ability to lead and mentor cross-functional engineering teams, streamline development processes, and deliver exceptional software products on time and within budget. Adept at fostering a culture of collaboration, innovation, and continuous improvement.
+## PROFESSIONAL SUMMARY
+- Veteran engineering manager with a long-standing career in software development, including 4+ years leading highly technical teams to deliver complex software solutions.
+- Proven ability to drive cross-functional collaboration, optimize processes that reduce costs, and ensure the timely delivery of projects. 
+- Skilled in fostering a culture of innovation, mentoring engineers, and aligning technical initiatives with business objectives. 
+- Track record of improved performance and increased reliability through an observability first methodology.
 
 <div style="clear: both">&nbsp;</div>
 
 Find me on <a href="https://stackoverflow.com/users/2343217/beiller">Stackoverflow</a>, <a href="https://github.com/beiller">GitHub</a>, <a href="https://www.linkedin.com/in/bill-hamilton-42b53325/">LinkedIn</a>
 
-## RECENT SIDE PROJECTS
+## RECENT PROJECTS
 - llama.cpp - Facebook Large Language Model in C++ (Mar 2023 - Apr 2023)
   - https://github.com/ggerganov/llama.cpp (Contributer)
   - https://github.com/ggerganov/llama.cpp/pull/20 (Added repeat penalty feature)
