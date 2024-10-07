@@ -29,7 +29,7 @@
 
 ## EXPERIENCE
 ### Flexport
-#### Order Management (Dev Manager II)
+#### Order Management / Optimization (Dev Manager II)
 ##### Dec 2023 - Present
 - Led a team of 10 engineers maintaining high-volume, mission-critical shipping APIs with 99.9% uptime, processing between 10,000 and 50,000 orders per day.
 - Defined and executed a technical strategy that reduced order processing latency by 30%, driving alignment with key business objectives.
@@ -54,6 +54,7 @@
 ##### Nov 2022 - Jun 2023
 - Manage a team of 5 engineers specializing working on optimization problems in Shopify Logistics working closely with data science on ML related initiatives
 - Organizing burst / event planning for geographically diverse team in the East / West cost of USA / Canada
+
 #### Operations Research (Senior Developer)
 ##### Apr 2022 - Nov 2022
 - Working in operations research team doing optimization and modelling
@@ -65,7 +66,7 @@
 ### Uplift
 #### Senior Software Engineer
 ##### Sept 2019 - Nov 2022  
-SWE responsible for various microservices APIs and serverless backends on the credit / lending team
+- SWE responsible for various microservices APIs and serverless backends on the credit / lending team
 - Perform some management duties such as interviews and performance reviews as well as leadership of small engineering team of 3 and hands on coding 50/50 split
 - Responsible for all things related to underwriting backend services, deploying and maintaining machine learning models trained by data science teams used to underwrite loans
 - Develop faster validation and backtesting pipelines for model implementation and unified feature generation to speed up deployments of new models
