@@ -3,10 +3,10 @@
 <img src="profile_pic.jpg" alt="Picutre of Bill Hamiton pondering" title="Picutre of Bill Hamiton pondering">
 </div>
 ## PROFESSIONAL SUMMARY
-- Veteran engineering manager with a long-standing career in software development, including 4+ years leading highly technical teams to deliver complex software solutions.
-- Proven ability to drive cross-functional collaboration, optimize processes that reduce costs, and ensure the timely delivery of projects. 
-- Skilled in fostering a culture of innovation, mentoring engineers, and aligning technical initiatives with business objectives. 
-- Track record of improved performance and increased reliability through an observability first methodology.
+- Veteran engineering manager with a long-standing career in software development, including 4+ years leading highly technical teams to deliver complex software solutions
+- Proven ability to drive cross-functional collaboration, optimize processes that reduce costs, and ensure the timely delivery of projects.
+- Skilled in fostering a culture of innovation, mentoring engineers, and aligning technical initiatives with business objectives
+- Track record of improved performance and increased reliability through an observability first methodology
 
 <div style="clear: both">&nbsp;</div>
 

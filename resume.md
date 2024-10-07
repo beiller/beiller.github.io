@@ -6,10 +6,10 @@
 <a href="https://beiller.github.io/resume.html">https://beiller.github.io/resume.html</a><br/>
 
 ## PROFESSIONAL SUMMARY
-- Veteran engineering manager with a long-standing career in software development, including 4+ years leading highly technical teams to deliver complex software solutions.
-- Proven ability to drive cross-functional collaboration, optimize processes that reduce costs, and ensure the timely delivery of projects. 
-- Skilled in fostering a culture of innovation, mentoring engineers, and aligning technical initiatives with business objectives. 
-- Track record of improved performance and increased reliability through an observability first methodology.
+- Veteran engineering manager with a long-standing career in software development, including 4+ years leading highly technical teams to deliver complex software solutions
+- Proven ability to drive cross-functional collaboration, optimize processes that reduce costs, and ensure the timely delivery of projects
+- Skilled in fostering a culture of innovation, mentoring engineers, and aligning technical initiatives with business objectives
+- Track record of improved performance and increased reliability through an observability first methodology
 
 ## TECHNICAL EXPERTISE
 - Leading high-performing teams of up to 10 engineers
@@ -31,12 +31,12 @@
 ### Flexport
 #### Order Management / Optimization (Dev Manager II)
 ##### Dec 2023 - Present
-- Led a team of 10 engineers maintaining high-volume, mission-critical shipping APIs with 99.9% uptime, processing between 10,000 and 50,000 orders per day.
-- Defined and executed a technical strategy that reduced order processing latency by 30%, driving alignment with key business objectives.
-- Implemented Agile methodologies, increasing project delivery speed by 30% and improving code quality, measured by a reduction in defects during deployment of code changes.
+- Led a team of 10 engineers maintaining high-volume, mission-critical shipping APIs with 99.9% uptime, processing between 10,000 and 50,000 orders per day
+- Defined and executed a technical strategy that reduced order processing latency by 30%, driving alignment with key business objectives
+- Implemented Agile methodologies, increasing project delivery speed by 30% and improving code quality, measured by a reduction in defects during deployment of code changes
 - Designed from the ground a support rotation decreasing critical ticket volume by half using a dashboard based approach and pre-emptively handing issues
-- Sunset and streamlined legacy code, reducing technical debt and increasing development velocity by 30% eliminating frequent dependency upgrades in a microservices architecture.
-- Managed resource planning and optimized team workload, improving utilization efficiency by 25%.
+- Sunset and streamlined legacy code, reducing technical debt and increasing development velocity by 30% eliminating frequent dependency upgrades in a microservices architecture
+- Managed resource planning and optimized team workload, improving utilization efficiency by 25%
 - Collaborated with cross-functional teams, resolving technical challenges and delivering high-quality software products in partnership with Product, QA, and Operations teams.
 
 #### Optimization Engineering (Staff Developer)
@@ -47,7 +47,7 @@
 #### Optimization Engineering (Dev Manager)
 ##### Jun 2023 - Aug 2023
 - Continue managing the team after the aquisition of Shopify Logistics by Flexport
-- Lead a team of 5 software engineers, setting goals, monitoring progress, and conducting performance evaluations.
+- Lead a team of 5 software engineers, setting goals, monitoring progress, and conducting performance evaluations
 
 ### Shopify
 #### Optimization Engineering (Dev Manager)
@@ -72,11 +72,10 @@
 - Develop faster validation and backtesting pipelines for model implementation and unified feature generation to speed up deployments of new models
 - Unified many critical credit APIs with zero downtime and zero bug launches through the extensive use of test driven development (TDD) for critical APIs
 
-
 ### Liquor Control Board of Ontario (LCBO)
 #### Senior Application Developer
 ##### March 2017 - Sept 2019 
-Development team lead at the world's largest alcohol retailer coordinating cloud APIs with beautiful customer focused interfaces, mentoring internal, external, on-shore and off-shore development teams. 
+Development team lead at the world's largest alcohol retailer coordinating cloud APIs with beautiful customer focused interfaces, mentoring internal, external, on-shore and off-shore development teams
 
 - Performing code reviews, mentoring developer teams, approval of source code changes based on pull request workflows
 - Leading e-commerce backend and frontend development team of 4 using Java/JSP and Javascript
