@@ -42,7 +42,7 @@
 #### Optimization Engineering (Staff Developer)
 ##### Aug 2023 - Dec 2023
 - Drove complex projects between data science and operations that effectively places inventory using advanced machine learning models
-- Shipped a major inbounding algorithm update saving 3 million in fulfilment costs per year focusing on reducint split shipments
+- Shipped a major inbounding algorithm update saving 3 million in fulfilment costs per year focusing on reducing split shipments
 
 #### Optimization Engineering (Dev Manager)
 ##### Jun 2023 - Aug 2023
