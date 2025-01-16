@@ -39,15 +39,14 @@
 - Managed resource planning and optimized team workload, improving utilization efficiency by 25%
 - Collaborated with cross-functional teams, resolving technical challenges and delivering high-quality software products in partnership with Product, QA, and Operations teams.
 
-#### Optimization Engineering (Staff Developer)
-##### Aug 2023 - Dec 2023
-- Drove complex projects between data science and operations that effectively places inventory using advanced machine learning models
-- Shipped a major inbounding algorithm update saving 3 million in fulfilment costs per year focusing on reducing split shipments
-
 #### Optimization Engineering (Dev Manager)
-##### Jun 2023 - Aug 2023
+##### Jun 2023 - Dec 2023
+**Summary: Applied machine learning and optimization techniques to drive cost savings and improve supply chain efficiency**
 - Continue managing the team after the aquisition of Shopify Logistics by Flexport
-- Lead a team of 5 software engineers, setting goals, monitoring progress, and conducting performance evaluations
+- Led complex projects between data science and operations to develop and implement inventory management systems using advanced machine learning models.
+- Successfully shipped a major inbounding algorithm update, resulting in a 3 million reduction in fulfillment costs per year and a significant reduction in split shipments.
+- Collaborated with cross-functional teams to ship billing feature org wide resulting in moving beta products to a billable $3 million / year ARR (billing for pack slips)
+- Developed and maintained complex algorithms and models, leveraging expertise in data science and machine learning to drive business value.
 
 ### Shopify
 #### Optimization Engineering (Dev Manager)
@@ -110,6 +109,10 @@ Development team lead at the world's largest alcohol retailer coordinating cloud
 - Honours Bachelor of Computer Science, Laurentian University, Sudbury  Ontario Canada
 
 ## ADDITIONAL PROJECTS
+#### Godot game engine
+https://github.com/godotengine/godot
+(Contributor)
+Bugfix and dual quaternion implementation
 #### llama.cpp - Facebook Large Language Model in C++ (Mar 2023 - Apr 2023)
 https://github.com/ggerganov/llama.cpp
 (Contributer)
