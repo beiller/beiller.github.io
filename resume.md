@@ -30,7 +30,7 @@
 ## EXPERIENCE
 ### Flexport
 #### Order Management / Optimization (Dev Manager II)
-##### Dec 2023 - Present
+##### Dec 2023 - Oct 2024
 - Led a team of 10 engineers maintaining high-volume, mission-critical shipping APIs with 99.9% uptime, processing 10k - 50k orders per day
 - Defined and executed a technical strategy that reduced order processing latency by 30%, driving alignment with key business objectives
 - Implemented Agile methodologies, increasing project delivery speed by 30% and improving code quality, measured by a reduction in defects during deployment of code changes
