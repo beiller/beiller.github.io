@@ -1,6 +1,6 @@
-# William Hamilton
+# William (Bill) Hamilton
 ##### Contact
-<a href="mailto:beiller@gmail.com">be<span></span>il<span></span>ler@gma<span></span>il.com</a><br/>
+<a href="mailto:beiller+gh.resume@gmail.com">be<span></span>il<span></span>ler@gma<span></span>il.com</a><br/>
 6<span></span>47.389.1<span></span>872<br/>
 <a href="https://www.linkedin.com/in/bill-hamilton-42b53325/">https://www.linkedin.com/in/bill-hamilton-42b53325/</a><br/>
 <a href="https://beiller.github.io/resume.html">https://beiller.github.io/resume.html</a><br/>
