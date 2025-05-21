@@ -47,9 +47,10 @@
 - Managed resource planning and optimized team workload, improving utilization efficiency by 25%
 - Collaborated with cross-functional teams, resolving technical challenges and delivering high-quality software products in partnership with Product, QA, and Operations teams.
 
+### Flexport
 #### Optimization Engineering (Dev Manager)
 ##### Jun 2023 - Dec 2023
-**Summary: Applied machine learning and optimization techniques to drive cost savings and improve supply chain efficiency**
+###### Applied machine learning and optimization techniques to drive cost savings and improve supply chain efficiency**
 - Continue managing the team after the aquisition of Shopify Logistics by Flexport
 - Led complex projects between data science and operations to develop and implement inventory management systems using advanced machine learning models.
 - Successfully shipped a major inbounding algorithm update, resulting in a 3 million reduction in fulfillment costs per year and a significant reduction in split shipments.
@@ -71,10 +72,10 @@
 - Mentor junior engineers and making them comfortable shipping PRs
 
 ### Uplift
-#### Senior Software Engineer
+#### Tech Lead
 ##### Sept 2019 - Nov 2022  
-- SWE responsible for various microservices APIs and serverless backends on the credit / lending team
-- Perform some management duties such as interviews and performance reviews as well as leadership of small engineering team of 3 and hands on coding 50/50 split
+- Responsible for various microservices APIs and serverless backends on the credit / lending team
+- Perform management duties such as interviews and performance reviews as well as leadership of small engineering team of 3 and hands on coding 50/50 split
 - Responsible for all things related to underwriting backend services, deploying and maintaining machine learning models trained by data science teams used to underwrite loans
 - Develop faster validation and backtesting pipelines for model implementation and unified feature generation to speed up deployments of new models
 - Unified many critical credit APIs with zero downtime and zero bug launches through the extensive use of test driven development (TDD) for critical APIs
@@ -126,8 +127,8 @@ https://github.com/ggerganov/llama.cpp
 (Contributer)
 Added repeat penalty feature. Repo became official part of Meta Llama 3 download package.
 https://github.com/ggerganov/llama.cpp/pull/20
-#### Laydelmi app for Android - Video Streaming Platform for Cooking
-Check out the app on Android app store!
+#### Laydelmi app for Android/IOS - Video Streaming Platform for Cooking
+Check out the app on Android/IOS app store!
 ## Older Projects
 - Containerizing PyTorch machine learning facial reconstruction application https://github.com/beiller/3DDFA
 - Ammo.js - A WASM compiled port of Bullet physics library to Javascript contributor https://github.com/beiller/ammo.js
