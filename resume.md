@@ -50,7 +50,7 @@
 ### Flexport
 #### Optimization Engineering (Dev Manager)
 ##### Jun 2023 - Dec 2023
-###### Applied machine learning and optimization techniques to drive cost savings and improve supply chain efficiency**
+###### Applied machine learning and optimization techniques to drive cost savings and improve supply chain efficiency
 - Continue managing the team after the aquisition of Shopify Logistics by Flexport
 - Led complex projects between data science and operations to develop and implement inventory management systems using advanced machine learning models.
 - Successfully shipped a major inbounding algorithm update, resulting in a 3 million reduction in fulfillment costs per year and a significant reduction in split shipments.
