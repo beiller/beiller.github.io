@@ -28,6 +28,14 @@
 - Azure PaaS/IaaS (Azure App Service, Azure Storage)
 
 ## EXPERIENCE
+### Laydelmi
+#### Co-Founder
+##### Oct 2024 - Present
+- Conceived, designed, and launched a grassroots video streaming app focused on cooking content and local creator communities
+- Built and shipped the MVP from scratch, leading all phases from product ideation to technical implementation
+- Assembled and managed a small team of contractors across design and development
+- Gained hands-on experience in early-stage product development, team building, and go-to-market strategy
+
 ### Flexport
 #### Order Management / Optimization (Dev Manager II)
 ##### Dec 2023 - Oct 2024
