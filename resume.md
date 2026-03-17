@@ -28,6 +28,7 @@
 - Azure PaaS/IaaS (Azure App Service, Azure Storage)
 
 ## EXPERIENCE
+<<<<<<< Updated upstream
 ### Laydelmi
 #### Co-Founder
 ##### Oct 2024 - Present
@@ -35,6 +36,16 @@
 - Built and shipped the MVP from scratch, leading all phases from product ideation to technical implementation
 - Assembled and managed a small team of contractors across design and development
 - Gained hands-on experience in early-stage product development, team building, and go-to-market strategy
+=======
+### Meta
+#### Engineering Manager, Meta Account Access
+##### July 21, 2025 - Present
+- Promoted to IC6 for exceptional technical leadership and delivery
+- Hiring and developing 2 IC5 engineers to strengthen team capabilities
+- Managing a large-scale project affecting billions of users across Meta platform
+- Leading high-performance team that owns the login stack (login, account recovery) for all Meta apps and services
+- Driving technical strategy and execution for critical authentication and account security infrastructure
+>>>>>>> Stashed changes
 
 ### Flexport
 #### Order Management / Optimization (Dev Manager II)
