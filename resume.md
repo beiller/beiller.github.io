@@ -4,6 +4,7 @@
 6<span></span>47.389.1<span></span>872<br/>
 <a href="https://www.linkedin.com/in/bill-hamilton-42b53325/">https://www.linkedin.com/in/bill-hamilton-42b53325/</a><br/>
 <a href="https://beiller.github.io/resume.html">https://beiller.github.io/resume.html</a><br/>
+Menlo Park, California
 
 ## PROFESSIONAL SUMMARY
 - Veteran engineering manager with a long-standing career in software development, including 4+ years leading highly technical teams to deliver complex software solutions
@@ -28,7 +29,16 @@
 - Azure PaaS/IaaS (Azure App Service, Azure Storage)
 
 ## EXPERIENCE
-<<<<<<< Updated upstream
+
+### Meta
+#### Engineering Manager, Meta Account Access
+##### July 2021 - Present
+- Promoted to IC6 for exceptional technical leadership and delivery
+- Hiring and developing 2 IC5 engineers to strengthen team capabilities
+- Managing a large-scale project affecting billions of users across Meta platform
+- Leading high-performance team that owns the login stack (login, account recovery) for all Meta apps and services
+- Driving technical strategy and execution for critical authentication and account security infrastructure
+
 ### Laydelmi
 #### Co-Founder
 ##### Oct 2024 - Present
@@ -36,16 +46,6 @@
 - Built and shipped the MVP from scratch, leading all phases from product ideation to technical implementation
 - Assembled and managed a small team of contractors across design and development
 - Gained hands-on experience in early-stage product development, team building, and go-to-market strategy
-=======
-### Meta
-#### Engineering Manager, Meta Account Access
-##### July 21, 2025 - Present
-- Promoted to IC6 for exceptional technical leadership and delivery
-- Hiring and developing 2 IC5 engineers to strengthen team capabilities
-- Managing a large-scale project affecting billions of users across Meta platform
-- Leading high-performance team that owns the login stack (login, account recovery) for all Meta apps and services
-- Driving technical strategy and execution for critical authentication and account security infrastructure
->>>>>>> Stashed changes
 
 ### Flexport
 #### Order Management / Optimization (Dev Manager II)
@@ -62,9 +62,9 @@
 #### Optimization Engineering (Dev Manager)
 ##### Jun 2023 - Dec 2023
 ###### Applied machine learning and optimization techniques to drive cost savings and improve supply chain efficiency
-- Continue managing the team after the aquisition of Shopify Logistics by Flexport
+- Continue managing the team after the acquisition of Shopify Logistics by Flexport
 - Led complex projects between data science and operations to develop and implement inventory management systems using advanced machine learning models.
-- Successfully shipped a major inbounding algorithm update, resulting in a 3 million reduction in fulfillment costs per year and a significant reduction in split shipments.
+- Successfully shipped a major inbounding algorithm update, resulting in a $3 million reduction in fulfillment costs per year and a significant reduction in split shipments.
 - Collaborated with cross-functional teams to ship billing feature org wide resulting in moving beta products to a billable $3 million / year ARR (billing for pack slips)
 - Developed and maintained complex algorithms and models, leveraging expertise in data science and machine learning to drive business value.
 
@@ -72,7 +72,7 @@
 #### Optimization Engineering (Dev Manager)
 ##### Nov 2022 - Jun 2023
 - Manage a team of 5 engineers specializing working on optimization in Shopify Logistics working closely with high level data science team on ML related initiatives
-- Organizing burst / event planning for geographically diverse team in the East / West cost of USA / Canada
+- Organizing burst / event planning for geographically diverse team in the East / West coast of USA / Canada
 
 #### Operations Research (Senior Developer)
 ##### Apr 2022 - Nov 2022
@@ -103,14 +103,14 @@ Development team lead at the world's largest alcohol retailer coordinating cloud
 - Launched cutting edge projects like Foodora courier delivery (B2B Integrations)
 - Architect and implement cloud based continuous integration pipelines including automated security scans, unit tests, and smoke tests using selenium scripts running in Docker containers
 - Continuous Deploy of applications to cloud PaaS providers such as Microsoft Azure, Google Cloud Platform, and Amazon Web Services
-- Integration of cloud technologies with legacy infratructure (Migration to git, Containerization)
+- Integration of cloud technologies with legacy infrastructure (Migration to git, Containerization)
 
 #### Senior Programmer Analyst
 ##### March 2011 - March 2017 (6 years 1 month)
 - LCBO Mobile App Sole Developer (2016 Android / IOS)
 - Java, J2EE development
 - SQL Mastery in Oracle PL/SQL, Teradata, DB2, Postgres, MySQL
-- Informatica, Sales forcasting, Demand chain and supply chain applications, chemical lab software and equipment support
+- Informatica, Sales forecasting, Demand chain and supply chain applications, chemical lab software and equipment support
 - Mentoring team members 
 - Mobile B2B applications for tracking products and inventory management
 
@@ -126,20 +126,23 @@ Development team lead at the world's largest alcohol retailer coordinating cloud
 
 ## EDUCATION
 - Certificate in Project Management, University of Toronto, Toronto Ontario Canada
-- Honours Bachelor of Computer Science, Laurentian University, Sudbury  Ontario Canada
+- Honours Bachelor of Computer Science, Laurentian University, Sudbury Ontario Canada
 
 ## ADDITIONAL PROJECTS
 #### Godot game engine
 https://github.com/godotengine/godot
 (Contributor)
 Bugfix and dual quaternion implementation
+
 #### llama.cpp - Facebook Large Language Model in C++ (Mar 2023 - Apr 2023)
 https://github.com/ggerganov/llama.cpp
-(Contributer)
+(Contributor)
 Added repeat penalty feature. Repo became official part of Meta Llama 3 download package.
 https://github.com/ggerganov/llama.cpp/pull/20
+
 #### Laydelmi app for Android/IOS - Video Streaming Platform for Cooking
 Check out the app on Android/IOS app store!
+
 ## Older Projects
 - Containerizing PyTorch machine learning facial reconstruction application https://github.com/beiller/3DDFA
 - Ammo.js - A WASM compiled port of Bullet physics library to Javascript contributor https://github.com/beiller/ammo.js
