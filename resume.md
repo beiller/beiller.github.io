@@ -33,11 +33,13 @@ Menlo Park, California
 ### Meta
 #### Engineering Manager, Meta Account Access
 ##### July 2021 - Present
-- Promoted to IC6 for exceptional technical leadership and delivery
-- Hiring and developing 2 IC5 engineers to strengthen team capabilities
-- Managing a large-scale project affecting billions of users across Meta platform
-- Leading high-performance team that owns the login stack (login, account recovery) for all Meta apps and services
-- Driving technical strategy and execution for critical authentication and account security infrastructure
+- Leading a team of 10 engineers and many cross-functional partners, owning the login stack (login, account recovery, account security) for all Meta apps and services
+- Auth projects impacting billions of daily active users across the Meta platform
+- Championed AI adoption across the team, publishing significant diffs and accelerating AI tooling integration
+- Reduced codebase footprint through strategic refactoring and modernization initiatives
+- Led cross-org unit testing coverage push, improving code quality and reliability across multiple teams
+- Promoted an IC5 (Senior Software Engineer) to IC6 (Staff Software Engineer), a highly selective promotion at Meta
+- Building and developing IC5 engineers to strengthen team capabilities and technical excellence
 
 ### Laydelmi
 #### Co-Founder
@@ -148,3 +150,4 @@ Check out the app on Android/IOS app store!
 - Ammo.js - A WASM compiled port of Bullet physics library to Javascript contributor https://github.com/beiller/ammo.js
 - C++ port of liquibooks to Python, an order matching engine https://github.com/beiller/python-liquibook
 - Sparechange dot io alternative monetization platform
+
