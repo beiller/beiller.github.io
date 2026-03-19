@@ -32,7 +32,7 @@ Menlo Park, California
 
 ### Meta
 #### Engineering Manager, Meta Account Access
-##### July 2021 - Present
+##### July 21, 2025 - Present
 - Leading a team of 10 engineers and many cross-functional partners, owning the login stack (login, account recovery, account security) for all Meta apps and services
 - Auth projects impacting billions of daily active users across the Meta platform
 - Championed AI adoption across the team, publishing significant diffs and accelerating AI tooling integration
