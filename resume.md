@@ -39,6 +39,8 @@ Menlo Park, California
 - Led cross-org testing initiative targeting +20% critical test coverage, eliminating flaky tests, and introducing push-blocking gates — enabling safer and faster AI-assisted code changes at scale
 - Drove AI tooling adoption across the team, accelerating development velocity and integration of AI-assisted workflows
 - Promoted one IC5 → IC6 (Staff SWE), a highly selective bar at Meta, through structured mentorship and ownership of high-visibility projects
+- Execute high-performance team building through Meta hiring pipeline, successfully recruiting IC4+ with focus on technical excellence and cultural fit
+- Provide performance coaching to struggling engineers, successfully bringing low-performers back on track; also executed difficult management-out decisions for employees who are not a team fit
 
 ### Laydelmi
 #### Co-Founder
