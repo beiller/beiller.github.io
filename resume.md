@@ -32,14 +32,13 @@ Menlo Park, California
 
 ### Meta
 #### Engineering Manager, Meta Account Access
-##### July 21, 2025 - Present
-- Leading a team of 10 engineers and many cross-functional partners, owning the login stack (login, account recovery, account security) for all Meta apps and services
-- Auth projects impacting billions of daily active users across the Meta platform
-- Championed AI adoption across the team, publishing significant diffs and accelerating AI tooling integration
-- Reduced codebase footprint through strategic refactoring and modernization initiatives
-- Led cross-org unit testing coverage push, improving code quality and reliability across multiple teams
-- Promoted an IC5 (Senior Software Engineer) to IC6 (Staff Software Engineer), a highly selective promotion at Meta
-- Building and developing IC5 engineers to strengthen team capabilities and technical excellence
+##### July 2024 - Present
+
+- Leading a large-scale legacy auth refactor unifying backend challenge flows across Facebook, Instagram, WhatsApp, Threads, and more — accelerating coding agent performance and reducing new app onboarding time from months to weeks
+- Lead a team of 10 engineers owning authentication and session management for all Meta apps — serving billions of DAUs
+- Led cross-org testing initiative targeting +20% critical test coverage, eliminating flaky tests, and introducing push-blocking gates — enabling safer and faster AI-assisted code changes at scale
+- Drove AI tooling adoption across the team, accelerating development velocity and integration of AI-assisted workflows
+- Promoted one IC5 → IC6 (Staff SWE), a highly selective bar at Meta, through structured mentorship and ownership of high-visibility projects
 
 ### Laydelmi
 #### Co-Founder
