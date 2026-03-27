@@ -44,7 +44,7 @@ Menlo Park, California
 
 ### Laydelmi
 #### Co-Founder
-##### July 2024 - July 2025
+##### March 2020 - July 2025
 - Conceived, designed, and launched a grassroots video streaming app focused on cooking content and local creator communities
 - Built and shipped the MVP from scratch, leading all phases from product ideation to technical implementation
 - Assembled and managed a small team of designers and PMs across design and development
@@ -52,17 +52,21 @@ Menlo Park, California
 
 ### Shopify / Flexport
 #### Optimization Engineering (Dev Manager)
-##### Apr 2022 - Oct 2024
+##### Nov 2022 - Oct 2024
 
-- Managed growing team from 5 to 10 engineers across optimization and order management, maintaining 99.9% uptime on mission-critical shipping APIs processing 10k-50k orders/day
+- Managed growing team from 5 to 10 engineers across optimization, but with a main focus on order management maintaining 99.9% uptime on mission-critical shipping APIs processing 10k-100k orders/day
 - Led team through Shopify Logistics acquisition by Flexport, ensuring seamless transition and continued delivery
-- Successfully shipped major inbounding algorithm update resulting in 20% annual fulfillment cost savings and significant "split shipment" reduction
-- Reduced order processing latency by 30% through technical strategy alignment with business objectives
-- Consolodated team rituals and process creep increasing project delivery speed by 30% and reducing deployment defects
-- (Hands on) Developed network simulation software for comparing warehouse placement algorithms and estimating implementation timelines
-- Collaborated with data science teams on ML-driven inventory management systems and billing features generating +15% ARR
+- Successfully led a major cross-org inbounding algorithm update resulting in 20% annual fulfillment cost savings and significant "split shipment" reduction
+- Reduced order processing latency by 30% by balancing predictions and modeling accuracy with real-world effects on API latency
+- Consolidated team rituals and process creep increasing project delivery speed by 30% and reducing deployment defects
 - Designed support rotation decreasing critical ticket volume by 50% using dashboard-based proactive issue resolution
-- Sunsetting legacy code reduced technical debt and increased development velocity by 30%
+- Large sunsetting intitatives, deleting legacy code reducing technical debt and increased development velocity by 30%
+
+#### Operations Research (Sr. Software Engineer)
+##### Apr 2022 - Nov 2022
+- Developed network simulation software for comparing warehouse placement algorithms and estimating implementation timelines
+- Collaborated with data science teams on ML-driven inventory management systems and billing features generating +15% ARR
+- Developed carbon emissions 3d interactive presentation modeling and 3d animated presentation org-wide on the ship time, cost, and emissions trade-offs leveraging huge historic data sets and advances simulation
 
 ### Uplift
 #### Tech Lead
