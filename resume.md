@@ -7,15 +7,11 @@
 Menlo Park, California
 
 ## PROFESSIONAL SUMMARY
-- Veteran engineering manager with a long-standing career in software development, including 4+ years leading highly technical teams to deliver complex software solutions
+- Experienced engineering manager with an extensive career in software development moving on to lead highly technical teams and deliver complex software solutions
 - Proven ability to drive cross-functional collaboration, optimize processes that reduce costs, and ensure the timely delivery of projects
 - Skilled in fostering a culture of innovation, mentoring engineers, and aligning technical initiatives with business objectives
 - Track record of improved performance and increased reliability through an observability first methodology
-
-## TECHNICAL EXPERTISE
-- Leading high-performing teams of up to 10 engineers
-- Procedural, Object Oriented, and Functional programming languages
-- Over 20 languages (Top 5: *Python, TypeScript, Java, Go, C++*)
+- A passion for all things software and in the loop on each week's new state-of-the-art
 
 ## ARCHITECTURE & INFRASTRUCTURE
 - Serverless architecture with AWS Lambda and Azure Functions
@@ -39,8 +35,8 @@ Menlo Park, California
 - Led cross-org testing initiative targeting +20% critical test coverage, eliminating flaky tests, and introducing push-blocking gates enabling safer and faster AI-assisted code changes at scale
 - Drove AI tooling adoption across the team, accelerating development velocity and integration of AI-assisted workflows
 - Bench building, promoted an IC5 → IC6 (Staff SWE) a highly selective bar at Meta. Structured mentorship and ownership of high-visibility projects
-- Execute high-performance team building through Meta hiring pipeline, successfully senior engineers with focus on technical excellence and cultural fit
-- Provide performance coaching to struggling engineers, successfully record of bringing low-performers back on track
+- Execute high-performance team building through Meta hiring pipeline, hiring and onboarding senior engineers with focus on technical excellence and cultural fit
+- Provide performance coaching to struggling engineers, successfully bringing low-performers back on track
 
 ### Laydelmi
 #### Co-Founder
@@ -60,7 +56,7 @@ Menlo Park, California
 - Reduced order processing latency by 30% by balancing predictions and modeling accuracy with real-world effects on API latency
 - Consolidated team rituals and process creep increasing project delivery speed by 30% and reducing deployment defects
 - Designed support rotation decreasing critical ticket volume by 50% using dashboard-based proactive issue resolution
-- Large sunsetting intitatives, deleting legacy code reducing technical debt and increased development velocity by 30%
+- Large sunsetting initiatives, deleting legacy code reducing technical debt and increased development velocity by 30%
 
 #### Operations Research (Sr. Software Engineer)
 ##### Apr 2022 - Nov 2022
