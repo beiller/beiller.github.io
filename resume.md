@@ -32,58 +32,37 @@ Menlo Park, California
 
 ### Meta
 #### Engineering Manager, Meta Account Access
-##### July 2024 - Present
+##### July 2025 - Present
 
-- Leading a large-scale legacy auth refactor unifying backend challenge flows across Facebook, Instagram, WhatsApp, Threads, and more — accelerating coding agent performance and reducing new app onboarding time from months to weeks
-- Lead a team of 10 engineers owning authentication and session management for all Meta apps — serving billions of DAUs
-- Led cross-org testing initiative targeting +20% critical test coverage, eliminating flaky tests, and introducing push-blocking gates — enabling safer and faster AI-assisted code changes at scale
+- Leading a large-scale legacy auth refactor unifying backend challenge flows across Facebook, Instagram, WhatsApp, Threads. Reduced new app authentication onboarding time from months to 1 week.
+- Lead a team of 10 engineers owning authentication and session management for all major Meta apps serving billions of DAUs
+- Led cross-org testing initiative targeting +20% critical test coverage, eliminating flaky tests, and introducing push-blocking gates enabling safer and faster AI-assisted code changes at scale
 - Drove AI tooling adoption across the team, accelerating development velocity and integration of AI-assisted workflows
-- Promoted one IC5 → IC6 (Staff SWE), a highly selective bar at Meta, through structured mentorship and ownership of high-visibility projects
-- Execute high-performance team building through Meta hiring pipeline, successfully recruiting IC4+ with focus on technical excellence and cultural fit
-- Provide performance coaching to struggling engineers, successfully bringing low-performers back on track; also executed difficult management-out decisions for employees who are not a team fit
+- Bench building, promoted an IC5 → IC6 (Staff SWE) a highly selective bar at Meta. Structured mentorship and ownership of high-visibility projects
+- Execute high-performance team building through Meta hiring pipeline, successfully senior engineers with focus on technical excellence and cultural fit
+- Provide performance coaching to struggling engineers, successfully record of bringing low-performers back on track
 
 ### Laydelmi
 #### Co-Founder
-##### Oct 2024 - Present
+##### July 2024 - July 2025
 - Conceived, designed, and launched a grassroots video streaming app focused on cooking content and local creator communities
 - Built and shipped the MVP from scratch, leading all phases from product ideation to technical implementation
-- Assembled and managed a small team of contractors across design and development
+- Assembled and managed a small team of designers and PMs across design and development
 - Gained hands-on experience in early-stage product development, team building, and go-to-market strategy
 
-### Flexport
-#### Order Management / Optimization (Dev Manager II)
-##### Dec 2023 - Oct 2024
-- Led a team of 10 engineers maintaining high-volume, mission-critical shipping APIs with 99.9% uptime, processing 10k - 50k orders per day
-- Defined and executed a technical strategy that reduced order processing latency by 30%, driving alignment with key business objectives
-- Implemented Agile methodologies, increasing project delivery speed by 30% and improving code quality, measured by a reduction in defects during deployment of code changes
-- Designed from the ground a support rotation decreasing critical ticket volume by half using a dashboard based approach and pre-emptively handing issues
-- Sunset and streamlined legacy code, reducing technical debt and increasing development velocity by 30% eliminating frequent dependency upgrades in a microservices architecture
-- Managed resource planning and optimized team workload, improving utilization efficiency by 25%
-- Collaborated with cross-functional teams, resolving technical challenges and delivering high-quality software products in partnership with Product, QA, and Operations teams.
-
-### Flexport
+### Shopify / Flexport
 #### Optimization Engineering (Dev Manager)
-##### Jun 2023 - Dec 2023
-###### Applied machine learning and optimization techniques to drive cost savings and improve supply chain efficiency
-- Continue managing the team after the acquisition of Shopify Logistics by Flexport
-- Led complex projects between data science and operations to develop and implement inventory management systems using advanced machine learning models.
-- Successfully shipped a major inbounding algorithm update, resulting in a $3 million reduction in fulfillment costs per year and a significant reduction in split shipments.
-- Collaborated with cross-functional teams to ship billing feature org wide resulting in moving beta products to a billable $3 million / year ARR (billing for pack slips)
-- Developed and maintained complex algorithms and models, leveraging expertise in data science and machine learning to drive business value.
+##### Apr 2022 - Oct 2024
 
-### Shopify
-#### Optimization Engineering (Dev Manager)
-##### Nov 2022 - Jun 2023
-- Manage a team of 5 engineers specializing working on optimization in Shopify Logistics working closely with high level data science team on ML related initiatives
-- Organizing burst / event planning for geographically diverse team in the East / West coast of USA / Canada
-
-#### Operations Research (Senior Developer)
-##### Apr 2022 - Nov 2022
-- Working in operations research team doing optimization and modelling
-- Team lead working closely with data science on implementing placement algorithms
-- Developed network simulation software which was used to compare placement algorithms and work out estimated time to results for our new placement implementation
-- Provide software best practise and guidance for data science teams writing code
-- Mentor junior engineers and making them comfortable shipping PRs
+- Managed growing team from 5 to 10 engineers across optimization and order management, maintaining 99.9% uptime on mission-critical shipping APIs processing 10k-50k orders/day
+- Led team through Shopify Logistics acquisition by Flexport, ensuring seamless transition and continued delivery
+- Successfully shipped major inbounding algorithm update resulting in 20% annual fulfillment cost savings and significant "split shipment" reduction
+- Reduced order processing latency by 30% through technical strategy alignment with business objectives
+- Consolodated team rituals and process creep increasing project delivery speed by 30% and reducing deployment defects
+- (Hands on) Developed network simulation software for comparing warehouse placement algorithms and estimating implementation timelines
+- Collaborated with data science teams on ML-driven inventory management systems and billing features generating +15% ARR
+- Designed support rotation decreasing critical ticket volume by 50% using dashboard-based proactive issue resolution
+- Sunsetting legacy code reduced technical debt and increased development velocity by 30%
 
 ### Uplift
 #### Tech Lead
